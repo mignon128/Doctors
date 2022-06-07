@@ -1100,10 +1100,6 @@ span.arrow_right {
 .section3_btn:hover {
   background: #c2b093;
   transition: background 0.4s 0.1s ease-in-out;
-  -webkit-transition: background 0.4s 0.1s ease-in-out;
-  -moz-transition: background 0.4s 0.1s ease-in-out;
-  -ms-transition: background 0.4s 0.1s ease-in-out;
-  -o-transition: background 0.4s 0.1s ease-in-out;
 }
 
 .section3_btn>a {
